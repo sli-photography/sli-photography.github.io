@@ -1,0 +1,47 @@
+
+
+.steph{
+  position: absolute;
+  transform: translateX(250px);
+  text-align: center;
+  font-family:"SF Pro Text";
+  font-size:200px;
+  font-weight: bold;
+  padding-top: 340px;
+  padding-bottom: 100px;
+  color: black;
+
+}
+
+a{
+  color: white;
+  font-family: "SF Pro Text";
+  font-weight:lighter;
+  font-size: 25px;
+  padding: 220px;
+  position: relative;
+
+}
+
+body {
+  background-color: black;
+}
+
+body-1 {
+  background-color: white;
+}
+
+.container{
+  padding-right: 100px;
+  padding-bottom: 50px;
+  padding-top: 25px;
+  padding-left: 200px;
+}
+
+.href{
+  color: black;
+}
+
+.div{
+  background-color: black;
+}
